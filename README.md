@@ -13,15 +13,21 @@
 
 </div>
 
+<div align="center">
+
+![COMPLETE](https://img.shields.io/badge/COMPLETE-7ED321?style=for-the-badge&logo=cachet&logoColor=white)
+
+</div>
+
 ## Descriptions
 
 This is a project to improve my skills with Vite, React and CSS. Building a User Interface for Feedbacks.
 
 ## Images and Descriptions of Screens
 
-<div align="center">
-  <img src="./docs/layout/layout.jpg" alt="Login"/>
-</div>
+- Homepage
+
+  ![Logo](./docs/layout/layout.jpg)
 
 ## Technologies <!-- References for Create budgets :: https://shields.io/category/build -->
 
